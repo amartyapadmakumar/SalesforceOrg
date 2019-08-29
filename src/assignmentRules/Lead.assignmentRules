@@ -19,7 +19,7 @@
                 <field>Lead.Country</field>
                 <operation>notEqual</operation>
                 <value>US,USA,United States,United States of America</value>
-            </criteriaItems>
+   yes         </criteriaItems>
         </ruleEntry>
     </assignmentRule>
 </AssignmentRules>
